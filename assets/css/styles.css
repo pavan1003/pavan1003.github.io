@@ -287,7 +287,7 @@ input, textarea {
     max-width: 367px;
 }
 
-.contact-content .contact-submit input {
+.contact-content .contact-submit button {
     border-radius: 10px;
     border: 1px solid var(--primary-color);
     background: #E1EBED;
@@ -297,7 +297,6 @@ input, textarea {
     max-width: 160px;
     padding: 6px 35px;
     cursor: pointer;
-    text-transform: uppercase;
 }
 
 /* 4. FOOTER */
@@ -509,7 +508,7 @@ input, textarea {
         font-size: 30px;
     }
 
-    .contact-content .contact-submit input {
+    .contact-content .contact-submit button {
         font-size: 20px;
         padding: 6px 9px
     }
